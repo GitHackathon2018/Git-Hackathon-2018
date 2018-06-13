@@ -2,7 +2,7 @@
 This is the "hello world" of my GitHub tour!
 by GitHackathon2018
 ======
-## what you're doing, for who, and why
+## what you're doing and why
 try github!
 
 ## what makes your project special and exciting
