@@ -30,7 +30,7 @@ https://kirstiejane.github.io/friendly-github-intro/
 ##### Clone ![Clone icon](/assets/images/Clone.gif)
 - a copy of an online repository on your local computer so you can make edits on your own personal copy without having to be online. You can sync changes between your clone and the **remote** copy when you are online.
 
-#####Collaborator
+##### Collaborator
 - someone with read and write privileges to a repository as approved by the repository owner.
 
 ##### Contributor
